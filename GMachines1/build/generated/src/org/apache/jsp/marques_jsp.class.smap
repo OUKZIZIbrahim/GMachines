@@ -1,0 +1,35 @@
+SMAP
+marques_jsp.java
+JSP
+*S JSP
+*F
++ 0 marques.jsp
+marques.jsp
++ 1 menu.jsp
+templates/menu.jsp
++ 2 header.jsp
+templates/header.jsp
++ 3 footer.jsp
+templates/footer.jsp
+*L
+5,10:53
+5#1,70:62
+14#0,3:132
+5#2,97:135
+16#0,25:232
+40,2:257
+42,3:259,3
+45:268
+46,2:269,3
+48,2:275
+49:276,2
+50,15:278
+65:293,3
+66,3:296
+69:299,3
+70,5:302
+75:307,3
+76,21:310
+5#3,232:331
+96#0,6:562
+*E

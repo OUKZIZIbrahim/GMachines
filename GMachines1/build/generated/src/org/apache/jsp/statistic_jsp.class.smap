@@ -1,0 +1,23 @@
+SMAP
+statistic_jsp.java
+JSP
+*S JSP
+*F
++ 0 statistic.jsp
+statistic.jsp
++ 1 menu.jsp
+templates/menu.jsp
++ 2 header.jsp
+templates/header.jsp
++ 3 footer.jsp
+templates/footer.jsp
+*L
+5,16:51
+5#1,59:66
+20#0,3:125
+5#2,33:128
+37,65:161
+22#0,30:226
+5#3,234:256
+51#0,78:489
+*E

@@ -1,0 +1,36 @@
+SMAP
+machines_jsp.java
+JSP
+*S JSP
+*F
++ 0 machines.jsp
+examples/machines.jsp
++ 1 menu.jsp
+templates/menu.jsp
++ 2 header.jsp
+templates/header.jsp
++ 3 footer.jsp
+templates/footer.jsp
+*L
+5,11:53
+5#1,70:63
+15#0,3:133
+5#2,82:136
+17#0,11:218
+28:229,3
+29,3:232
+32:235,3
+33,6:238
+39:244,3
+40,6:247
+46:253,3
+47,27:256
+74,3:284
+76,2:287
+78,6:289,3
+84:307
+85:308,3
+86,7:311
+5#3,230:318
+92#0,6:548
+*E
